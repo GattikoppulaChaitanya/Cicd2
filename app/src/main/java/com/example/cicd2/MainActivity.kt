@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("ANVCG")
         println("rkjvbkjfevbfkjdvjdfk")
-        dgdfgdfbfdb
+        println("Expermantal")
+
     }
 }
